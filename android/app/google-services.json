@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184285594509",
+    "project_id": "flutter-messaging-81e48",
+    "storage_bucket": "flutter-messaging-81e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184285594509:android:0bb53807c137680c1db3c4",
+        "android_client_info": {
+          "package_name": "com.example.shodaimama_bill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184285594509-g8m54bhq6nlotbkdgd7pj7esi4onujpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNvl_GYGW-YZkGQHQ8Iwjxl9mCpV74w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184285594509-g8m54bhq6nlotbkdgd7pj7esi4onujpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
